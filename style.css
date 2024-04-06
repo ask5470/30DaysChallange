@@ -1,3 +1,4 @@
+*{font-family: sans-serif,Arial, Helvetica;}
 h1 {
     color: green;
   }
@@ -5,3 +6,13 @@ h1 {
     color: rgb(0, 23, 128);
   }
   .red-text {font: bold;color:red}
+
+  img {
+    height: 15rem;
+  }
+   /*Use CSS to change all the jokes to have "font-weight: normal;"*/
+.font-vtip{
+  color:rgb(0, 23, 128);
+  font-weight: bold;
+
+}
